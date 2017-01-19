@@ -16,3 +16,4 @@ http://www.javainterview.in/p/java-synchronization-interview-questions.html
 http://www.javainterview.in/p/java-new-features.html
 
 http://www.javainterview.in/p/rest-web-services-interview-questions.html
+http://www.developersbook.com/spring/interview-questions/spring-interview-questions-faqs.php
