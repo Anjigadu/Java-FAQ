@@ -18,3 +18,5 @@ http://www.javainterview.in/p/java-new-features.html
 http://www.javainterview.in/p/rest-web-services-interview-questions.html
 http://www.developersbook.com/spring/interview-questions/spring-interview-questions-faqs.php
 http://javarevisited.blogspot.com/2011/09/servlet-interview-questions-answers.html
+
+http://javabeat.net/jpa/
