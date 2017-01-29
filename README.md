@@ -20,3 +20,5 @@ http://www.developersbook.com/spring/interview-questions/spring-interview-questi
 http://javarevisited.blogspot.com/2011/09/servlet-interview-questions-answers.html
 
 http://javabeat.net/jpa/
+
+http://www.journaldev.com/7969/spring-boot-tutorial
