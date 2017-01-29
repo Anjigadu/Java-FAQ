@@ -22,4 +22,4 @@ http://javarevisited.blogspot.com/2011/09/servlet-interview-questions-answers.ht
 http://javabeat.net/jpa/
 
 http://www.journaldev.com/7969/spring-boot-tutorial
-http://www.javainuse.com/spring/SpringBootInterviewQuestions
+good : http://www.javainuse.com/spring/SpringBootInterviewQuestions
