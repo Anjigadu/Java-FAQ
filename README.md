@@ -25,3 +25,5 @@ http://www.journaldev.com/7969/spring-boot-tutorial
 good :
 http://www.javainuse.com/spring/SpringBootInterviewQuestions
 http://www.dineshonjava.com/2016/06/introduction-to-spring-boot-a-spring-boot-complete-guide.html#1
+
+http://www.withoutbook.com/Technology.php?tech=47&page=3&subject=JPA%20Interview%20Questions%20and%20Answers
